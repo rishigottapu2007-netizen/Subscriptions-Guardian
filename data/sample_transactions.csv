@@ -1,0 +1,10 @@
+date,merchant,amount,category
+2026-06-01,StreamFlix,14.99,streaming
+2026-07-01,StreamFlix,14.99,streaming
+2026-08-01,StreamFlix,14.99,streaming
+2026-09-01,StreamFlix,14.99,streaming
+2026-08-03,TuneWave,9.99,music_streaming
+2026-09-03,TuneWave,9.99,music_streaming
+2026-08-05,MusicBox Premium,11.99,music_streaming
+2026-09-05,MusicBox Premium,11.99,music_streaming
+2026-09-02,HealthGuard Insurance,89.00,insurance

@@ -1,0 +1,25 @@
+date,merchant,amount,category
+2026-06-01,StreamFlix,14.99,streaming
+2026-07-01,StreamFlix,14.99,streaming
+2026-08-01,StreamFlix,14.99,streaming
+2026-09-01,StreamFlix,14.99,streaming
+2026-06-03,TuneWave,9.99,music_streaming
+2026-07-03,TuneWave,9.99,music_streaming
+2026-08-03,TuneWave,9.99,music_streaming
+2026-09-03,TuneWave,9.99,music_streaming
+2026-06-05,MusicBox Premium,11.99,music_streaming
+2026-07-05,MusicBox Premium,11.99,music_streaming
+2026-08-05,MusicBox Premium,11.99,music_streaming
+2026-09-05,MusicBox Premium,11.99,music_streaming
+2026-06-10,CloudDrive,4.99,storage
+2026-07-10,CloudDrive,4.99,storage
+2026-08-10,CloudDrive,4.99,storage
+2026-09-10,CloudDrive,4.99,storage
+2026-06-02,HealthGuard Insurance,89.00,insurance
+2026-07-02,HealthGuard Insurance,89.00,insurance
+2026-08-02,HealthGuard Insurance,89.00,insurance
+2026-09-02,HealthGuard Insurance,89.00,insurance
+2026-06-15,FitPlus Gym,29.99,fitness
+2026-07-15,FitPlus Gym,29.99,fitness
+2026-08-15,FitPlus Gym,29.99,fitness
+2026-09-15,FitPlus Gym,29.99,fitness

@@ -1,0 +1,21 @@
+date,merchant,amount,category
+2026-06-01,StreamFlix,14.99,streaming
+2026-07-01,StreamFlix,14.99,streaming
+2026-08-01,StreamFlix,14.99,streaming
+2026-09-01,StreamFlix,14.99,streaming
+2026-06-05,GamePass Plus,14.99,gaming
+2026-07-05,GamePass Plus,14.99,gaming
+2026-08-05,GamePass Plus,14.99,gaming
+2026-09-05,GamePass Plus,14.99,gaming
+2026-06-08,PhotoCloud,12.99,storage
+2026-07-08,PhotoCloud,12.99,storage
+2026-08-08,PhotoCloud,12.99,storage
+2026-09-08,PhotoCloud,12.99,storage
+2026-06-12,NewsDaily Premium,8.99,news
+2026-07-12,NewsDaily Premium,8.99,news
+2026-08-12,NewsDaily Premium,8.99,news
+2026-09-12,NewsDaily Premium,8.99,news
+2026-06-20,HealthGuard Insurance,89.00,insurance
+2026-07-20,HealthGuard Insurance,89.00,insurance
+2026-08-20,HealthGuard Insurance,89.00,insurance
+2026-09-20,HealthGuard Insurance,89.00,insurance
