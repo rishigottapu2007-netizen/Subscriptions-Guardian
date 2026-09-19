@@ -1,0 +1,13 @@
+fastapi>=0.115
+uvicorn[standard]>=0.30
+python-multipart>=0.0.9
+pandas>=2.2
+pydantic>=2.8
+pydantic-settings>=2.4
+langgraph>=0.6
+langchain>=0.3
+langchain-openai>=0.3
+openai>=1.100
+python-dotenv>=1.0
+beautifulsoup4>=4.12
+email-validator>=2.2
