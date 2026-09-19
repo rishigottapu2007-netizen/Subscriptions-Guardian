@@ -11,3 +11,4 @@ openai>=1.100
 python-dotenv>=1.0
 beautifulsoup4>=4.12
 email-validator>=2.2
+pwdlib[argon2]>=0.2.0
